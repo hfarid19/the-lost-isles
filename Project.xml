@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<app title="The Lost Isles" file="TheLostIsles" main="Main" package="com.hussein.thelostisles" version="0.1.0" company="hussein" />
+	<window width="960" height="640" fps="60" background="#000000" resizable="true" vsync="true" />
+	<set name="BUILD_DIR" value="export" />
+	<classpath name="source" />
+	<assets path="assets" exclude="sounds/*|music/*" />
+	<assets path="assets/sounds" rename="assets/sounds" type="sound" />
+	<assets path="assets/music" rename="assets/music" type="music" />
+	<haxelib name="flixel" />
+	<haxelib name="flixel-addons" />
+	<haxedef name="FLX_NO_FOCUS_LOST_SCREEN" />
+	<haxedef name="FLX_NO_DEBUG" /> <!-- game ships its own dev console on backtick -->
+</project>

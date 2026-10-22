@@ -1,0 +1,20 @@
+# Build output (the web build is published separately on the gh-pages branch)
+export/
+
+# Paid / licensed asset packs: the licences allow shipping them in the game,
+# not redistributing the files. See README "Assets".
+assets/
+Tiny Swords*/
+*.aseprite
+
+# Art sources and reference material that isn't ours to share
+artsrc/
+retired/artsrc/
+retired/assets/
+tools/isaac_rooms/
+tools/isaac_templates.py
+
+# macOS / Python junk
+.DS_Store
+__pycache__/
+*.pyc
