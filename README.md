@@ -1,5 +1,7 @@
 # The Lost Isles
 
+> 🚧 **Work in progress.** The game is playable from start to finish, but it's still being built and hasn't had much playtesting yet. Balance (boss health, prices, enemy numbers) is rough, and expect bugs and missing pieces such as more music tracks.
+
 *A tiny roguelite.* Pick a hero, sail from island to island, clear rooms, stack items into a build and take down the boss of each floor. Inspired by The Binding of Isaac, set on Tiny Swords islands.
 
 ### ▶ [Play it in your browser](https://hfarid19.github.io/the-lost-isles/)
